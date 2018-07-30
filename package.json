@@ -1,0 +1,21 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "file-system": "^2.2.2",
+    "inquirer": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
